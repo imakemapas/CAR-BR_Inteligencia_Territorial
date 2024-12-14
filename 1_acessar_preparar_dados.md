@@ -29,7 +29,7 @@ para uma unidade federativa.
 
 *Acesso: 10 de dezembro, 2024*
 
-<img src="../imagens/pag_download_car.png" width="800px" />
+<img src="imagens/pag_download_car.png" width="800px" />
 
 **2. Descompactar e Renomear**
 
@@ -80,7 +80,7 @@ for (zip_file in zip_files) {
 
 Resultando em:
 
-<img src="../imagens/pasta_car_descomp.png" width="500px" />
+<img src="imagens/pasta_car_descomp.png" width="500px" />
 
 **<mark>Próximas etapas com a base de CAR serão realizadas em Python na
 etapa 2 deste tutorial</mark>**
