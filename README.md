@@ -3,6 +3,8 @@ por Theresa Rocco Pereira Barbosa
 
 Brasil, 2025
 
+---
+
 ## **Estrutura do Tutorial**
 
 ### **Etapa 1 - Manipulação de Dados em linguagem R**
@@ -12,7 +14,6 @@ Brasil, 2025
   - Download de 27 pastas compactadas (por estado).
   - Descompactação e renomeação dos arquivos para padronização.
 
----
 
 2. **Dados Adicionais (IBGE)**
 - **Fontes**:
@@ -21,23 +22,18 @@ Brasil, 2025
   - Limites Municipais do Brasil.
   - Mapa de Vegetação (IBGE, 2023)
 
----
 
 3. **Dados Adicionais (Zoneamento Agrícola de Risco CLimático)**
  
----
 
 4. **Dados Adicionais (MapBiomas - Uso e Cobertura)**
  
----
 
 5. **Dados Adicionais (Prodes - Desmatamento)**
  
----
 
 6. **Dados Adicionais (Terras Públicas - Unidades Conservação, Territórios Indígenas, Quilombolas, Glebas Públicas não Destinadas)**
  
----
 
 7. **Dados Adicionais (Embargos)**
  
