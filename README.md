@@ -19,22 +19,28 @@ Brasil, 2025
   - Amazônia Legal.
   - Limites Municipais do Brasil.
   - Mapa de Vegetação (IBGE, 2023)
-- **Ações**:
-  - Download, descompactação e reprojeção (para Albers Equivalente com SIRGAS2000).
-  - **Projeção Recomendada**: IBGE recomenda preservar áreas no território nacional.
 
 ---
 
 3. **Dados Adicionais (Zoneamento Agrícola de Risco CLimático)**
  
+---
+
 4. **Dados Adicionais (MapBiomas - Uso e Cobertura)**
+ 
+---
 
 5. **Dados Adicionais (Prodes - Desmatamento)**
+ 
+---
 
 6. **Dados Adicionais (Terras Públicas - Unidades Conservação, Territórios Indígenas, Quilombolas, Glebas Públicas não Destinadas)**
+ 
+---
 
 7. **Dados Adicionais (Embargos)**
-
+ 
+---
 
 ### **Etapa 2 - Manipulação de Dados em linguagem Python com ArcPy**
 
