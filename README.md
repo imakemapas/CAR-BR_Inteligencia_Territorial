@@ -11,9 +11,6 @@ Brasil, 2025
 
 1. **Acesso e Processamento iniciala dos Dados do CAR**
 - **Fonte**: Dados disponíveis via WFS ou no site do SICAR.
-  - Download de 27 pastas compactadas (por estado).
-  - Descompactação e renomeação dos arquivos para padronização.
-
 
 2. **Dados Adicionais (IBGE)**
 - **Fontes**:
