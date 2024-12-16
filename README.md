@@ -18,15 +18,15 @@ Além disso, outros dados geoespaciais, como limites de biomas, Amazônia Legal,
 
 Dados utilizados:
 
-* **CAR**- [limites dos imóveis rurals cadastrados no CAR](https://consultapublica.car.gov.br/publico/estados/downloads).
+* CAR - *[limites dos imóveis rurals cadastrados no CAR](https://consultapublica.car.gov.br/publico/estados/downloads).*
 
-* **Biomas** - [limites dos biomas brasileiros](https://www.ibge.gov.br/geociencias/informacoes-ambientais/vegetacao/15842-biomas.html?=&t=downloads).
+* Biomas - *[limites dos biomas brasileiros](https://www.ibge.gov.br/geociencias/informacoes-ambientais/vegetacao/15842-biomas.html?=&t=downloads).*
 
-* **Amazônia Legal** - [limite da Amazônia Legal](https://www.ibge.gov.br/geociencias/cartas-e-mapas/mapas-regionais/15819-amazonia-legal.html?=&t=o-que-e).
+* Amazônia Legal - *[limite da Amazônia Legal](https://www.ibge.gov.br/geociencias/cartas-e-mapas/mapas-regionais/15819-amazonia-legal.html?=&t=o-que-e).*
 
-* **Municípios** - [limites dos municípios brasileiros](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?=&t=downloads).
+* Municípios - *[limites dos municípios brasileiros](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?=&t=downloads).*
 
-* **Mapa Vegetação** - [cartas sobre a vegetação brasileira](https://geoftp.ibge.gov.br/informacoes_ambientais/vegetacao/vetores/escala_250_mil/).
+* Mapa Vegetação - *[cartas sobre a vegetação brasileira](https://geoftp.ibge.gov.br/informacoes_ambientais/vegetacao/vetores/escala_250_mil/).*
 
 ### **Parte 2 - Manipulação de Dados em linguagem R (continuação)**
 
