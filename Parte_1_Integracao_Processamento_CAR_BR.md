@@ -8,7 +8,7 @@
 
 # **Tutorial - PARTE 1**
 
-Este código é parte 1 de uma série que realiza o processamento e
+Este código é **parte 1** de uma série que realiza o processamento e
 integração dos dados do Cadastro Ambiental Rural (CAR), bem como de
 outras bases de dados geoespaciais, disponíveis para o território
 brasileiro.
