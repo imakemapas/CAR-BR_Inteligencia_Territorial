@@ -18,25 +18,15 @@ Além disso, outros dados geoespaciais, como limites de biomas, Amazônia Legal,
 
 Dados utilizados:
 
-* **CAR**
+* **CAR**- [limites dos imóveis rurals cadastrados no CAR](https://consultapublica.car.gov.br/publico/estados/downloads).
 
-A obtenção do dado oficial dos limites dos imóveis rurals cadastrados no CAR pode ser acessado diretamente no [site oficial do SICAR](https://consultapublica.car.gov.br/publico/estados/downloads).
+* **Biomas** - [limites dos biomas brasileiros](https://www.ibge.gov.br/geociencias/informacoes-ambientais/vegetacao/15842-biomas.html?=&t=downloads).
 
-* **Biomas** 
+* **Amazônia Legal** - [limite da Amazônia Legal](https://www.ibge.gov.br/geociencias/cartas-e-mapas/mapas-regionais/15819-amazonia-legal.html?=&t=o-que-e).
 
-A obtenção do dado oficial dos limites dos biomas brasileiros (2019, escala 1:250 mil) pode ser acessado diretamente no [site oficial do IBGE, seção informações ambientais](https://www.ibge.gov.br/geociencias/informacoes-ambientais/vegetacao/15842-biomas.html?=&t=downloads).
+* **Municípios** - [limites dos municípios brasileiros](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?=&t=downloads).
 
-* **Amazônia Legal**
-
-A obtenção do dado oficial do limite da Amazônia Legal pode ser acessado diretamente no [site oficial do IBGE, seção mapas regionais](https://www.ibge.gov.br/geociencias/cartas-e-mapas/mapas-regionais/15819-amazonia-legal.html?=&t=o-que-e).
-
-* **Municípios**
-
-A obtenção do dado oficial dos limites dos municípios brasileiros pode ser acessado diretamente no [site oficial do IBGE, seção organização do território](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?=&t=downloads).
-
-* **Mapa Vegetação** 
-
-A obtenção do dado oficial das cartas sobre a vegetação brasileira (2023, escala 1:250 mil) pode ser acessado diretamente no [site oficial do IBGE, seção informações ambientais](https://geoftp.ibge.gov.br/informacoes_ambientais/vegetacao/vetores/escala_250_mil/).
+* **Mapa Vegetação** - [cartas sobre a vegetação brasileira](https://geoftp.ibge.gov.br/informacoes_ambientais/vegetacao/vetores/escala_250_mil/).
 
 ### **Parte 2 - Manipulação de Dados em linguagem R (continuação)**
 
