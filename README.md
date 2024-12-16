@@ -9,13 +9,13 @@ contato:
 
 ---
 
-### **Objetivo**
+## **Objetivo**
 
 Integração e Processamento de Dados do CAR-BR e Consolidação de uma a Base Territorial Brasileira.
 
-### **Estrutura do Tutorial**
+## **Estrutura do Tutorial**
 
-#### **Parte 1 - Manipulação de Dados em linguagem R**
+### **Parte 1 - Manipulação de Dados em linguagem R**
 
 Inicia-se com o acesso aos dados dos limites dos imóveis rurais cadastrados, extraídos a partir de arquivos compactados fornecidos pelo SICAR. O processo inclui a descompactação e renomeação dos arquivos, a correção de geometrias inválidas nos shapefiles e a posterior realização de um merge de todos os dados, com a remoção de colunas desnecessárias. A base consolidada é então reprojetada para o sistema de coordenadas recomendado pelo IBGE (SIRGAS2000, Cônica Equivalente de Albers).
 
@@ -43,7 +43,7 @@ A obtenção do dado oficial dos limites dos municípios brasileiros pode ser ac
 
 A obtenção do dado oficial das cartas sobre a vegetação brasileira (2023, escala 1:250 mil) pode ser acessado diretamente no [site oficial do IBGE, seção informações ambientais](https://geoftp.ibge.gov.br/informacoes_ambientais/vegetacao/vetores/escala_250_mil/).
 
-#### **Parte 2 - Manipulação de Dados em linguagem R (continuação)**
+### **Parte 2 - Manipulação de Dados em linguagem R (continuação)**
 
 [Em breve]
 
