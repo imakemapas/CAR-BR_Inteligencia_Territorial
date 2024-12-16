@@ -1,5 +1,7 @@
 # Inteligência Territorial: Guia de Análise do Cadastro Ambiental Rural (CAR) e Conformidade Ambiental
 
+---
+
 por Theresa Rocco Pereira Barbosa (Brasil, 2025)
 
 contato: 
@@ -9,10 +11,11 @@ contato:
 
 ---
 
-
 ## **Objetivo**
 
 Integração e Processamento de Dados do CAR-BR e Consolidação de uma a Base Territorial Brasileira.
+
+---
 
 ## **Estrutura do Tutorial**
 
