@@ -77,8 +77,6 @@ para uma unidade federativa.
 
 *Acesso: 10 de dezembro, 2024*
 
-```{r, echo=FALSE, out.width='800px'} knitr::include_graphics("imagens/pag_download_car.png")```
-
 **2. Descompactar e Renomear**
 
 Após baixar os arquivos compactados dos 27 Estados, o próximo passo é
@@ -136,10 +134,6 @@ for (pasta_zip in pastas_zip) {
   unlink(pasta_temporaria, recursive = TRUE)
 }
 ```
-
-Resultando em:
-
-`{r, echo=FALSE, out.width='500px'} knitr::include_graphics("imagens/pasta_car_descomp.png")`
 
 **3. Verificar e Corrigir Geometrias Inválidas**
 
@@ -225,7 +219,9 @@ CARs com geometria inválida que foram removidos:
 
 **4. Mesclar - Merge**
 
-`{r message=FALSE, warning=FALSE} sf_mesclado <- purrr::map_df(list.files(diretorio_saida,                                         pattern = "_valid\\.shp$",                                         full.names = TRUE),                              sf::st_read)`
+``` {r} 
+sf_mesclado <- purrr::map_df(list.files(diretorio_saida, pattern = "_valid\\.shp$", full.names = TRUE), sf::st_read)
+```
 
 ``` {r}
 # Verificar a validade das geometrias no objeto mesclado
@@ -370,9 +366,6 @@ Após o download, esses dados serão descompactados e reprojetados.
 Os dados baixados estão armazenados na pasta indicada por
 `diretorio_entrada`, enquanto os arquivos descompactados e renomeados
 serão salvos na pasta especificada por `diretorio_saida`.
-
-``` {r}
-```
 
 ``` {r}
 diretorio_entrada  <- "../dados_brutos"
