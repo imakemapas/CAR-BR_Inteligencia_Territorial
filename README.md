@@ -2,10 +2,7 @@
 
 por Theresa Rocco Pereira Barbosa (Brasil, 2025)
 
-contato: 
-* imakemapas@outlook.com.br
-* theresa.rocco@ufrrj.br
-* theresa.rocco@gmail.com
+imakemapas@outlook.com.br; theresa.rocco@ufrrj.br; * theresa.rocco@gmail.com
 
 ## **Objetivo**
 
