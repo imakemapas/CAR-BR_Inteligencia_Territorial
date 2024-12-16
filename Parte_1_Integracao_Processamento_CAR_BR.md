@@ -77,7 +77,7 @@ para uma unidade federativa.
 
 *Acesso: 10 de dezembro, 2024*
 
-`{r, echo=FALSE, out.width='800px'} knitr::include_graphics("imagens/pag_download_car.png")`
+```{r, echo=FALSE, out.width='800px'} knitr::include_graphics("imagens/pag_download_car.png")```
 
 **2. Descompactar e Renomear**
 
