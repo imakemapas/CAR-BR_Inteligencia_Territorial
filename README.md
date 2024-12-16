@@ -1,7 +1,11 @@
 # Inteligência Territorial: Guia de Análise do Cadastro Ambiental Rural (CAR) e Conformidade Ambiental
 
 por Theresa Rocco Pereira Barbosa (Brasil, 2025)
-contato: imakemapas@outlook.com.br ou theresa.rocco@ufrrj.br
+
+contato: 
+* imakemapas@outlook.com.br
+* theresa.rocco@ufrrj.br
+* theresa.rocco@gmail.com
 
 ---
 
