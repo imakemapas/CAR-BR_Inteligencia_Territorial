@@ -1,47 +1,24 @@
 # Inteligência Territorial: Guia de Análise do Cadastro Ambiental Rural (CAR) e Conformidade Ambiental
-por Theresa Rocco Pereira Barbosa
 
-Brasil, 2025
-
----
-
-## **Estrutura do Tutorial**
-
-### **Etapa 1 - Manipulação de Dados em linguagem R**
-
-1. **Acesso e Processamento iniciala dos Dados do CAR**
-- **Fonte**: Dados disponíveis via WFS ou no site do SICAR.
-
-2. **Dados Adicionais (IBGE)**
-- **Fontes**:
-  - Biomas (escala 1:250.000, 2019).
-  - Amazônia Legal.
-  - Limites Municipais do Brasil.
-  - Mapa de Vegetação (IBGE, 2023)
-
-
-3. **Dados Adicionais (Zoneamento Agrícola de Risco CLimático)**
- 
-
-4. **Dados Adicionais (MapBiomas - Uso e Cobertura)**
- 
-
-5. **Dados Adicionais (Prodes - Desmatamento)**
- 
-
-6. **Dados Adicionais (Terras Públicas - Unidades Conservação, Territórios Indígenas, Quilombolas, Glebas Públicas não Destinadas)**
- 
-
-7. **Dados Adicionais (Embargos)**
- 
----
-
-### **Etapa 2 - Manipulação de Dados em linguagem Python com ArcPy**
-
+por Theresa Rocco Pereira Barbosa (Brasil, 2025)
+contato: imakemapas@outlook.com.br ou theresa.rocco@ufrrj.br
 
 ---
 
+### **Objetivo**
 
+Integração e Processamento de Dados do CAR-BR e Consolidação de uma a Base Territorial Brasileira.
 
+### **Estrutura do Tutorial**
 
+#### **Parte 1 - Manipulação de Dados em linguagem R**
 
+Inicia-se com o acesso aos dados dos limites dos imóveis rurais cadastrados, extraídos a partir de arquivos compactados fornecidos pelo SICAR. O processo inclui a descompactação e renomeação dos arquivos, a correção de geometrias inválidas nos shapefiles e a posterior realização de um merge de todos os dados, com a remoção de colunas desnecessárias. A base consolidada é então reprojetada para o sistema de coordenadas recomendado pelo IBGE (SIRGAS2000, Cônica Equivalente de Albers).
+
+Além disso, outros dados geoespaciais, como limites de biomas, Amazônia Legal, mapa de vegetação e informações sobre os municípios, passam por processos de extração, reprojeção e/ou simplificação. Em etapas posteriores, esses dados serão integrados ao CAR-BR, enriquecendo a análise territorial.
+
+#### **Parte 2 - Manipulação de Dados em linguagem R (continuação)**
+
+[Em breve]
+
+---
