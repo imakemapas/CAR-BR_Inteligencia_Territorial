@@ -9,6 +9,7 @@ contato:
 
 ---
 
+
 ## **Objetivo**
 
 Integração e Processamento de Dados do CAR-BR e Consolidação de uma a Base Territorial Brasileira.
@@ -43,8 +44,9 @@ A obtenção do dado oficial dos limites dos municípios brasileiros pode ser ac
 
 A obtenção do dado oficial das cartas sobre a vegetação brasileira (2023, escala 1:250 mil) pode ser acessado diretamente no [site oficial do IBGE, seção informações ambientais](https://geoftp.ibge.gov.br/informacoes_ambientais/vegetacao/vetores/escala_250_mil/).
 
+---
+
+
 ### **Parte 2 - Manipulação de Dados em linguagem R (continuação)**
 
 [Em breve]
-
----
