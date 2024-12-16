@@ -49,7 +49,12 @@ ambientais](https://geoftp.ibge.gov.br/informacoes_ambientais/vegetacao/vetores/
 
 ## R Packages
 
-`{r message=FALSE, warning=FALSE} library(purrr) library(dplyr) library(sf) # library(terra) # pacote terra, famoso para usuários R, mostrou-se muito lento para grandes volumes de dados, quando comparado ao pacote sf. Além disso, pacote terra exigiu mais RAM que o pacote sf ao longo do processamento. Devido a isto, foi optado utilizar apenas o pacote sf nesta parte do tutorial.`
+``` {r}
+library(purrr)
+library(dplyr)
+library(sf)
+#library(terra) # pacote terra, famoso para usuários R, mostrou-se muito lento para grandes volumes de dados, quando comparado ao pacote sf. Além disso, pacote terra exigiu mais RAM que o pacote sf ao longo do processamento. Devido a isto, foi optado utilizar apenas o pacote sf nesta parte do tutorial.
+```
 
 Use `install.packages("nome do pacote)` se for a primeira vez utilizando
 os pacotes necessários.
